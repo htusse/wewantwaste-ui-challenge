@@ -4,9 +4,9 @@ A modern, responsive redesign of the "choose your skip size" page for WeWantWast
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link-here.netlify.app)
+[View Live Demo](https://wewantwasteuichallenge.netlify.app/)
 
-## 📋 Challenge Overview
+## 📋 Challenge Overview 
 
 This project is a complete visual redesign of WeWantWaste's skip size selection page while maintaining all original functionality. The goal was to create a modern, user-friendly interface that works seamlessly across all devices.
 
